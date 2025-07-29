@@ -1,4 +1,11 @@
 ***AI-Based Recommendation System***
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**:SAKSHI SWAMI
+**INTERN ID**: CT04DH328
+**DOMAIN**:JAVA PROGRAMMING
+**DURATION**: 4 WEEKS
+**MENTOR**: NEELA SANTOSH
+
 ## Task Objective:
 Build a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences.
 
