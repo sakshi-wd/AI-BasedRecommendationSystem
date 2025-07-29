@@ -4,23 +4,33 @@ Build a recommendation system using Java and libraries like Apache Mahout to sug
 
 ## 💻 What I Built
 A User-Based Collaborative Filtering Recommender using Mahout's Taste API.
+
 Input: A data.csv file containing user-item-rating triples.
+
 Output: Top-N item recommendations for a specific user.
+
 Implemented similarity calculation using Euclidean Distance.
 
 ## 🛠️ Tech Stack
 Java 8
+
 Apache Mahout 0.9 (Taste API)
+
 Maven
+
 SLF4J (Logging)
+
 Eclipse/IntelliJ
 
 ## 📁 Dataset
 The system reads a CSV dataset (data.csv) from the resources directory in the format:
 -userID,itemID,rating
+
 Sample:
 1,103,2.0
+
 2,101,5.0
+
 3,104,4.0
 
  ## Project Structure
