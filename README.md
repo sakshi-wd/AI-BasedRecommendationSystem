@@ -49,7 +49,8 @@ Gained hands-on experience in Java data processing, similarity computation, and 
 
 Improved confidence in building AI-powered backend components
 
-✅ Conclusion
+## ✅ Conclusion
 In this task, I successfully developed a User-Based AI Recommendation System using Java and Apache Mahout (Taste API). By implementing collaborative filtering and similarity metrics, I was able to generate relevant item recommendations based on user preferences. This project helped me gain practical experience in building intelligent systems and deepened my understanding of how real-world recommendation engines work behind platforms like Amazon, Netflix, and Spotify. Overall, this task strengthened both my Java development and data-driven AI logic skills, aligning perfectly with the internship's learning goals.
 
-
+## Output
+<img width="1518" height="1714" alt="Image" src="https://github.com/user-attachments/assets/48b9a495-ae67-4fb6-bd7f-5539b33b5da9" />=--
